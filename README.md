@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Suraj Prasad
+# 👋 Hi, I'm Suraj 
 
 ### Frontend Developer | JavaScript Enthusiast | Building Clean & Interactive Web Experiences 🚀
 
