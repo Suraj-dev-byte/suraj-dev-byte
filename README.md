@@ -1,48 +1,23 @@
-<div align="center">
-
 # 👋 Hi, I'm Suraj Prasad
 
-### Frontend Developer | JavaScript Enthusiast | React Learner
-
-**Building clean, responsive & interactive web experiences.**
-
-<p>
-  <a href="https://github.com/Suraj-dev-byte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suraj-prasad-3bb668432">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:surajprasad4522@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-</div>
+### Frontend Developer | JavaScript Enthusiast | Building Clean & Interactive Web Experiences 🚀
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💻 Frontend developer focused on **JavaScript**
+I'm a **Frontend Developer** focused on JavaScript and building interactive web applications.
+
 * 🌱 Currently learning **React**
-* 🔨 Learning by building real-world projects
-* 🎯 Goal: Build strong, production-ready frontend applications
+* 🔨 I learn by building projects and solving problems
+* 🎯 Working towards becoming a strong **Frontend Developer**
+* 🚀 Currently improving my JavaScript and UI development skills
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-**Currently Learning:** ⚛️ React
+**Currently learning:** ⚛️ React
 
 ---
 
@@ -50,48 +25,50 @@
 
 ### 🎵 Music Player
 
-A JavaScript-based music player built to practice **APIs, DOM manipulation, dynamic rendering, events and audio functionality**.
+My current JavaScript project where I'm practicing **API integration, DOM manipulation, dynamic rendering, event handling and audio functionality**.
 
-**Tech:** `HTML` `CSS` `Tailwind CSS` `JavaScript`
+**Built with:** `HTML` `CSS` `Tailwind CSS` `JavaScript`
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Suraj-dev-byte/music-player)
+[View Project](https://github.com/Suraj-dev-byte/music-player)
 
 ---
 
 ## 📚 Learning Projects
 
-Projects I've built while learning and strengthening my frontend fundamentals:
+A collection of projects I've built while learning and strengthening my frontend fundamentals.
 
-* 🌍 **Country API** — API integration & dynamic rendering
-* 🛒 **E-commerce API** — product data & UI rendering
-* 🎬 **Movie API** — API integration & search
-* 💬 **Chat App** — DOM, events & LocalStorage
-* 🐍 **Snake Game** — JavaScript logic & DOM
+| Project               | What I Practiced           |
+| :-------------------- | :------------------------- |
+| 🌍 **Country API**    | APIs & Dynamic Rendering   |
+| 🛒 **E-commerce API** | Product Data & UI          |
+| 💬 **Chat App**       | DOM, Events & LocalStorage |
+| 🐍 **Snake Game**     | JavaScript Logic & DOM     |
 
-> These are **learning projects**, not my final portfolio projects.
+> These projects are primarily **learning projects** and reflect my development journey.
 
 ---
 
 ## ⭐ Portfolio
 
-Currently building my frontend foundation.
-**Portfolio-focused projects coming after React.** 🚀
+I'm currently building my foundation with JavaScript and React.
+
+**Portfolio-focused projects coming next. 🚀**
 
 ---
 
-## 🤝 Connect
+## 🎯 What's Next
 
-<p>
-  <a href="https://github.com/Suraj-dev-byte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suraj-prasad-3bb668432">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/suraj_444s">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:surajprasad4522@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**React → Advanced React → Real-world Projects → Portfolio**
+
+---
+
+## 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Suraj-dev-byte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/suraj-prasad-3bb668432)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/suraj_444s)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:surajprasad4522@gmail.com)
+
+---
+
+**🚀 Learn → Build → Debug → Improve**
