@@ -97,23 +97,23 @@ I'm continuously building frontend projects and will be adding more polished app
 
 ## 📈 Contribution Activity
 
+## 📈 Contribution Activity
+
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-dev-byte&theme=github-compact&hide_border=true&area=true"
-    alt="Suraj's GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-dev-byte&theme=github-compact&hide_border=true&area=true" width="100%" alt="Suraj's GitHub Activity Graph" />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Achievements
 
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Suraj-dev-byte&theme=flat&no-frame=true&margin-w=10&column=7"
-    alt="Suraj's GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suraj-dev-byte&theme=flat&no-frame=true&margin-w=10&column=7" width="100%" alt="Suraj's GitHub Trophies" />
 </p>
+
 
 ---
 
