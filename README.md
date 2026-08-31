@@ -10,12 +10,14 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently building **frontend projects** and strengthening my JavaScript skills
+I'm a frontend developer focused on building clean, responsive and interactive web experiences.
+
+* 🔭 Currently working on **frontend projects**
 * 🌱 Currently learning **React**
-* 💻 Interested in **Frontend Development & Interactive Web Experiences**
-* 🧠 Focused on writing **clean, reusable and maintainable code**
+* 💻 Strong focus on **JavaScript and frontend development**
+* 🧠 Improving my skills through hands-on projects
 * 🤝 Open to collaborating on **Frontend Web Development Projects**
-* 📚 Continuously learning and improving through hands-on projects
+* 📚 Always learning and building something new
 * ⚡ Fun fact: **One more feature... then I'll stop 😝**
 
 ---
@@ -25,44 +27,44 @@
 ### Frontend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="JavaScript"/>
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
 </p>
 
 ### Currently Learning
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" height="45" alt="React"/>
 </p>
 
 **React ⚛️**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🎵 Music Player
 
-A frontend music player application built to practice JavaScript, APIs, dynamic UI rendering and interactive player functionality.
+A frontend music player application built while practicing JavaScript, APIs, dynamic UI rendering and interactive player functionality.
 
-**Tech Stack:** HTML • CSS • Tailwind CSS • JavaScript
+**Tech Stack**
 
-🔗 **[View Repository](https://github.com/Suraj-dev-byte/music-player)**
+`HTML` `CSS` `Tailwind CSS` `JavaScript`
 
----
-
-### 🔜 More Projects Coming Soon
-
-I'm continuously building frontend projects and will be adding more polished applications as I progress through React and modern frontend development.
+<p>
+  <a href="https://github.com/Suraj-dev-byte/music-player">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+</p>
 
 ---
 
@@ -88,8 +90,8 @@ I'm continuously building frontend projects and will be adding more polished app
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Suraj-dev-byte&hide_border=true"
-    alt="Suraj's GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com/?user=Suraj-dev-byte&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
@@ -97,30 +99,30 @@ I'm continuously building frontend projects and will be adding more polished app
 
 ## 📈 Contribution Activity
 
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-dev-byte&theme=github-compact&hide_border=true&area=true" width="100%" alt="Suraj's GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-dev-byte&theme=github-compact&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
-
 
 ---
 
 ## 🏆 GitHub Achievements
 
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suraj-dev-byte&theme=flat&no-frame=true&margin-w=10&column=7" width="100%" alt="Suraj's GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Suraj-dev-byte&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6"
+    alt="GitHub Profile Trophies"
+  />
 </p>
-
 
 ---
 
-## 📌 Current Focus
+## 📌 Currently Learning
 
 ```text
-HTML / CSS
+HTML + CSS
      ↓
 Tailwind CSS
      ↓
@@ -136,17 +138,23 @@ More Frontend Projects
 ## 🤝 Connect With Me
 
 <p align="left">
+
   <a href="https://github.com/Suraj-dev-byte" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
   </a>
 
   <a href="https://www.linkedin.com/in/suraj-prasad-3bb668432" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://instagram.com/suraj_444s" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/>
   </a>
 
   <a href="mailto:surajprasad4522@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Gmail.svg" width="40" height="40" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
   </a>
+
 </p>
 
 ---
