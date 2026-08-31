@@ -48,73 +48,50 @@ I'm a frontend developer focused on building clean, responsive and interactive w
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🎵 Music Player
 
 A frontend music player application built while practicing JavaScript, APIs, dynamic UI rendering and interactive player functionality.
 
-**Tech Stack**
+**Tech Stack:** HTML • CSS • Tailwind CSS • JavaScript
 
-`HTML` `CSS` `Tailwind CSS` `JavaScript`
-
-<p>
-  <a href="https://github.com/Suraj-dev-byte/music-player">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
-  </a>
-</p>
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Suraj-dev-byte/music-player)
 
 ---
 
-## 📊 GitHub Analytics
+### 🔜 More Projects Coming Soon
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Suraj-dev-byte&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Suraj's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-dev-byte&layout=compact&hide_border=true"
-    alt="Suraj's Top Languages"
-  />
-</p>
+I'm continuously building frontend projects and improving my skills through hands-on development.
 
 ---
 
-## 🔥 Contribution Streak
+## 📚 Learning Journey
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Suraj-dev-byte"
-    alt="Suraj's GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Suraj-dev-byte">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-dev-byte"
-      alt="Suraj's GitHub Activity Graph"
-    />
-  </a>
-</p>
+```text
+HTML
+  ↓
+CSS
+  ↓
+Tailwind CSS
+  ↓
+JavaScript
+  ↓
+React ⚛️
+  ↓
+More Frontend Projects 🚀
+```
 
 ---
 
-## 📌 Current Learning Path
+## 🎯 Current Focus
 
-<p align="center">
-
-**HTML** → **CSS** → **Tailwind CSS** → **JavaScript** → **React ⚛️**
-
-</p>
+* ⚛️ Learning **React**
+* 🧩 Building reusable UI components
+* 🔌 Working with APIs
+* 📱 Building responsive interfaces
+* 🧠 Strengthening JavaScript fundamentals
+* 🚀 Building projects for my frontend portfolio
 
 ---
 
@@ -122,21 +99,13 @@ A frontend music player application built while practicing JavaScript, APIs, dyn
 
 <p align="left">
 
-<a href="https://github.com/Suraj-dev-byte">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Suraj-dev-byte)
 
-<a href="https://www.linkedin.com/in/suraj-prasad-3bb668432">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/suraj-prasad-3bb668432)
 
-<a href="https://instagram.com/suraj_444s">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/suraj_444s)
 
-<a href="mailto:surajprasad4522@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:surajprasad4522@gmail.com)
 
 </p>
 
