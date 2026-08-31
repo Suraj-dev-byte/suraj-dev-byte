@@ -3,20 +3,19 @@
 ### Frontend Developer | JavaScript Enthusiast | Building Clean & Interactive Web Experiences 🚀
 
 <p align="left">
-  <a href="https://github.com/Suraj-dev-byte">
-    <img src="https://komarev.com/ghpvc/?username=Suraj-dev-byte&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Suraj-dev-byte&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently building **frontend projects** and improving my JavaScript skills
+* 🔭 Currently building **frontend projects** and strengthening my JavaScript skills
 * 🌱 Currently learning **React**
 * 💻 Interested in **Frontend Development & Interactive Web Experiences**
 * 🧠 Focused on writing **clean, reusable and maintainable code**
 * 🤝 Open to collaborating on **Frontend Web Development Projects**
+* 📚 Continuously learning and improving through hands-on projects
 * ⚡ Fun fact: **One more feature... then I'll stop 😝**
 
 ---
@@ -26,35 +25,26 @@
 ### Frontend
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </p>
 
 ### Tools
 
 <p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>
 
-> **Currently learning:** React ⚛️
+### Currently Learning
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</p>
+
+**React ⚛️**
 
 ---
 
@@ -64,23 +54,32 @@
 
 A frontend music player application built to practice JavaScript, APIs, dynamic UI rendering and interactive player functionality.
 
-**Tech:** HTML • CSS • Tailwind CSS • JavaScript
+**Tech Stack:** HTML • CSS • Tailwind CSS • JavaScript
 
-[🔗 View Repository](https://github.com/Suraj-dev-byte/music-player)
+🔗 **[View Repository](https://github.com/Suraj-dev-byte/music-player)**
 
 ---
 
-### 📌 More Projects Coming Soon
+### 🔜 More Projects Coming Soon
 
-I'm continuously building and improving frontend projects while learning React.
+I'm continuously building frontend projects and will be adding more polished applications as I progress through React and modern frontend development.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-dev-byte&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-dev-byte&layout=compact&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Suraj-dev-byte&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Suraj's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-dev-byte&layout=compact&hide_border=true"
+    alt="Suraj's Top Languages"
+  />
 </p>
 
 ---
@@ -88,7 +87,10 @@ I'm continuously building and improving frontend projects while learning React.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suraj-dev-byte&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Suraj-dev-byte&hide_border=true"
+    alt="Suraj's GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -96,7 +98,10 @@ I'm continuously building and improving frontend projects while learning React.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-dev-byte&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-dev-byte&theme=github-compact&hide_border=true&area=true"
+    alt="Suraj's GitHub Activity Graph"
+  />
 </p>
 
 ---
@@ -104,30 +109,43 @@ I'm continuously building and improving frontend projects while learning React.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suraj-dev-byte&theme=flat&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Suraj-dev-byte&theme=flat&no-frame=true&margin-w=10&column=7"
+    alt="Suraj's GitHub Trophies"
+  />
 </p>
 
 ---
 
-## 💻 GitHub Stats
+## 📌 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-dev-byte&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-</p>
+```text
+HTML / CSS
+     ↓
+Tailwind CSS
+     ↓
+JavaScript
+     ↓
+React ⚛️
+     ↓
+More Frontend Projects
+```
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
+  <a href="https://github.com/Suraj-dev-byte" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/suraj-prasad-3bb668432" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:surajprasad4522@gmail.com">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Gmail.svg" width="40" height="40" alt="Email"/>
-  </a>
-  <a href="https://github.com/Suraj-dev-byte" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
 
