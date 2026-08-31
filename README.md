@@ -1,46 +1,138 @@
-# Hi, I'm Suraj 👋
+# Hi, I'm Suraj Prasad 👋
 
 ### Frontend Developer | JavaScript Enthusiast | Building Clean & Interactive Web Experiences 🚀
 
-<h1 align="center">Hi 👋, I'm Suraj Prasad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-dev-byte&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-dev-byte" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj-dev-byte" alt="suraj-dev-byte" /></a> </p>
-
-- 🔭 I’m currently working on [Music-player](https://github.com/Suraj-dev-byte/music-player)
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Frontend Web Development Projects**
-
-- 🤝 I’m looking for help with **React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Suraj-dev-byte](https://github.com/Suraj-dev-byte)
-
-- 📝 I regularly write articles on [Github](Github)
-
-- 💬 Ask me about **Html,CSS,Tailwind CSS, JavaScript, Git & Github**
-
-- 📫 How to reach me **surajprasad4522@gmail.com**
-
-- 📄 Know about my experiences [Frontend Development](Frontend Development)
-
-- ⚡ Fun fact **One more feature.. then I'll stop 😝**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ suraj-prasad-3bb668432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ suraj-prasad-3bb668432" height="30" width="40" /></a>
-<a href="https://instagram.com/suraj_444s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_444s" height="30" width="40" /></a>
+  <a href="https://github.com/Suraj-dev-byte">
+    <img src="https://komarev.com/ghpvc/?username=Suraj-dev-byte&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-dev-byte&show_icons=true&locale=en&layout=compact" alt="suraj-dev-byte" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj-dev-byte&show_icons=true&locale=en" alt="suraj-dev-byte" /></p>
+* 🔭 Currently building **frontend projects** and improving my JavaScript skills
+* 🌱 Currently learning **React**
+* 💻 Interested in **Frontend Development & Interactive Web Experiences**
+* 🧠 Focused on writing **clean, reusable and maintainable code**
+* 🤝 Open to collaborating on **Frontend Web Development Projects**
+* ⚡ Fun fact: **One more feature... then I'll stop 😝**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-dev-byte&" alt="suraj-dev-byte" /></p>
+---
 
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  </a>
+</p>
+
+### Tools
+
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  </a>
+</p>
+
+> **Currently learning:** React ⚛️
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 Music Player
+
+A frontend music player application built to practice JavaScript, APIs, dynamic UI rendering and interactive player functionality.
+
+**Tech:** HTML • CSS • Tailwind CSS • JavaScript
+
+[🔗 View Repository](https://github.com/Suraj-dev-byte/music-player)
+
+---
+
+### 📌 More Projects Coming Soon
+
+I'm continuously building and improving frontend projects while learning React.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-dev-byte&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-dev-byte&layout=compact&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Suraj-dev-byte&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-dev-byte&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suraj-dev-byte&theme=flat&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-dev-byte&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/suraj-prasad-3bb668432" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:surajprasad4522@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Gmail.svg" width="40" height="40" alt="Email"/>
+  </a>
+  <a href="https://github.com/Suraj-dev-byte" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving. One project at a time.</i>
+</p>
