@@ -48,21 +48,57 @@ I'm a frontend developer focused on building clean, responsive and interactive w
 
 ---
 
-## 🚀 Featured Projects
+## 🚧 Currently Building
 
 ### 🎵 Music Player
 
-A frontend music player application built while practicing JavaScript, APIs, dynamic UI rendering and interactive player functionality.
+Currently building a music player application while strengthening my JavaScript skills.
 
-**Tech Stack:** HTML • CSS • Tailwind CSS • JavaScript
+**Focus Areas**
+
+`API Integration` `DOM Manipulation` `Event Handling` `Dynamic Rendering` `Audio Player`
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Suraj-dev-byte/music-player)
 
 ---
 
-### 🔜 More Projects Coming Soon
+## 📚 Learning Projects
 
-I'm continuously building frontend projects and improving my skills through hands-on development.
+These projects were built while learning and practicing frontend development concepts.
+
+### 🌍 Country API
+
+A frontend project built while practicing API integration, fetching data and dynamically rendering country information.
+
+**Technologies:** HTML • CSS • JavaScript
+
+---
+
+### 🛒 E-commerce API
+
+A practice project focused on working with product data, APIs and dynamic frontend rendering.
+
+**Technologies:** HTML • CSS • JavaScript
+
+---
+
+### 🎬 Movie API
+
+A frontend practice project built to understand API integration, searching and dynamically displaying movie information.
+
+**Technologies:** HTML • CSS • JavaScript
+
+---
+
+> 📌 These projects are learning-focused and represent my progress while building a strong foundation in frontend development.
+
+---
+
+## ⭐ Portfolio Projects
+
+I'm currently working towards building polished, production-style projects for my frontend developer portfolio.
+
+**Coming Soon 🚀**
 
 ---
 
@@ -79,7 +115,7 @@ JavaScript
   ↓
 React ⚛️
   ↓
-More Frontend Projects 🚀
+Advanced Frontend Development
 ```
 
 ---
@@ -91,7 +127,18 @@ More Frontend Projects 🚀
 * 🔌 Working with APIs
 * 📱 Building responsive interfaces
 * 🧠 Strengthening JavaScript fundamentals
-* 🚀 Building projects for my frontend portfolio
+* 🚀 Turning learning projects into polished portfolio projects
+
+---
+
+## 📌 GitHub
+
+I use GitHub to document my projects, experiments and development progress.
+
+* 📦 Building and publishing projects regularly
+* 🔧 Practicing Git and GitHub workflows
+* 🚀 Gradually improving project quality
+* 📚 Learning through hands-on development
 
 ---
 
