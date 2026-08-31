@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Suraj **
+# 👋 Hi, I'm Suraj
 
 ### `Frontend Developer` • `JavaScript Enthusiast` • `React Learner`
 
