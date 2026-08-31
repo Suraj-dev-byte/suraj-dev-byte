@@ -12,12 +12,12 @@
 
 I'm a frontend developer focused on building clean, responsive and interactive web experiences.
 
-* 🔭 Currently working on **frontend projects**
+* 🔭 Currently building **frontend projects**
 * 🌱 Currently learning **React**
-* 💻 Strong focus on **JavaScript and frontend development**
+* 💻 Focused on **JavaScript and Frontend Development**
 * 🧠 Improving my skills through hands-on projects
 * 🤝 Open to collaborating on **Frontend Web Development Projects**
-* 📚 Always learning and building something new
+* 📚 Learning by building real-world applications
 * ⚡ Fun fact: **One more feature... then I'll stop 😝**
 
 ---
@@ -27,26 +27,24 @@ I'm a frontend developer focused on building clean, responsive and interactive w
 ### Frontend
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.simpleicons.org/css/1572B6" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" height="45" alt="Tailwind CSS"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ### Currently Learning
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" height="45" alt="React"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
-
-**React ⚛️**
 
 ---
 
@@ -62,7 +60,7 @@ A frontend music player application built while practicing JavaScript, APIs, dyn
 
 <p>
   <a href="https://github.com/Suraj-dev-byte/music-player">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
   </a>
 </p>
 
@@ -90,8 +88,8 @@ A frontend music player application built while practicing JavaScript, APIs, dyn
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Suraj-dev-byte&hide_border=true"
-    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com/?user=Suraj-dev-byte"
+    alt="Suraj's GitHub Contribution Streak"
   />
 </p>
 
@@ -100,38 +98,23 @@ A frontend music player application built while practicing JavaScript, APIs, dyn
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-dev-byte&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <a href="https://github.com/Suraj-dev-byte">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-dev-byte"
+      alt="Suraj's GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📌 Current Learning Path
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Suraj-dev-byte&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6"
-    alt="GitHub Profile Trophies"
-  />
+
+**HTML** → **CSS** → **Tailwind CSS** → **JavaScript** → **React ⚛️**
+
 </p>
-
----
-
-## 📌 Currently Learning
-
-```text
-HTML + CSS
-     ↓
-Tailwind CSS
-     ↓
-JavaScript
-     ↓
-React ⚛️
-     ↓
-More Frontend Projects
-```
 
 ---
 
@@ -139,21 +122,21 @@ More Frontend Projects
 
 <p align="left">
 
-  <a href="https://github.com/Suraj-dev-byte" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
-  </a>
+<a href="https://github.com/Suraj-dev-byte">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/suraj-prasad-3bb668432" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/suraj-prasad-3bb668432">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-  <a href="https://instagram.com/suraj_444s" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/>
-  </a>
+<a href="https://instagram.com/suraj_444s">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-  <a href="mailto:surajprasad4522@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
-  </a>
+<a href="mailto:surajprasad4522@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </p>
 
