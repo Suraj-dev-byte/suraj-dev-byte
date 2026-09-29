@@ -65,7 +65,13 @@ A JavaScript-based grocery shopping website where I'm practicing:
 
 **API Integration** • **Dynamic Rendering** • **DOM Manipulation** • **Search & Filtering** • **Cart Management** • **LocalStorage** • **Responsive UI**
 
-**Built with:** `HTML` `CSS` `Tailwind CSS` `JavaScript`
+**Built with:**
+
+* `HTML`
+* `CSS`
+* `Tailwind CSS`
+* `JavaScript`
+
 
 [![View Project](https://img.shields.io/badge/🛒%20View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suraj-dev-byte/grocery-store)
 
