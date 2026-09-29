@@ -59,15 +59,15 @@ I'm a **Frontend Developer** focused on JavaScript and building interactive web 
 
 ## 🚧 Currently Building
 
-### 🎵 Music Player
+### 🛒 OwnMart
 
-A JavaScript-based music player where I'm practicing:
+A JavaScript-based grocery shopping website where I'm practicing:
 
-**API Integration** • **DOM Manipulation** • **Dynamic Rendering** • **Event Handling** • **Audio Functionality**
+**API Integration** • **Dynamic Rendering** • **DOM Manipulation** • **Search & Filtering** • **Cart Management** • **LocalStorage** • **Responsive UI**
 
 **Built with:** `HTML` `CSS` `Tailwind CSS` `JavaScript`
 
-[![View Project](https://img.shields.io/badge/🎵%20View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Suraj-dev-byte/music-player)
+[![View Project](https://img.shields.io/badge/🛒%20View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suraj-dev-byte/grocery-store)
 
 ---
 
