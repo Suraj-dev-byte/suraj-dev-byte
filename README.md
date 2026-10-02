@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Suraj)](https://git.io/typing-svg)
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Suraj)](https://git.io/typing-svg)
 
 ### Frontend Developer | JavaScript Enthusiast | Building Clean & Interactive Web Experiences 🚀
 
